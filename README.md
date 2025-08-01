@@ -1,50 +1,30 @@
-# El canto de las Cataratas
+# 🌊 Canto de las Cataratas – Velo de la Novia, Aguaytía
 
-**El canto de las Cataratas** una experiencia visual y descriptiva sobre el velo de la novia,una cascada maravillosa.
-**El Velo de la Novia**, en **Padre Abad, Ucayali**.
+Este proyecto es una aplicación web turística que muestra información sobre la catarata **Velo de la Novia**, ubicada en la provincia de Padre Abad, región Ucayali, Perú. El objetivo es promocionar el turismo local mediante una herramienta digital informativa, visual y fácil de usar.
 
-## ¿Qué es el velo de la novia?
+---
 
-El velo de la  novia es una cascada natural ubicada en el Boqueron del Padre Abad, en la provincia de Padre Abad,region Ucayali-Perú,cerca de la ciudad de Aguaytia.
-Su nombre proviene de la forma que cae el agua,formando un manto blanco parecido al velo de una novia.
-Esta rodeado de vegetación, montañas, y otras cascadas como la Ducha del Diablo.
+## 📍 Sobre el lugar
 
+La catarata *Velo de la Novia* es una de las más visitadas de la zona. Su caída de agua de más de 40 metros, rodeada de vegetación, ofrece un espectáculo natural impresionante. Se encuentra cerca del Boquerón del Padre Abad, a pocos minutos de la carretera central.
 
-  ## Es uno de los lugares mas visitados por turistas debido a:
-  
-  - Su entorno lleno de vegetación y fauna.
-  - El sonido relajante de la caida del agua.
-  - Sus impresionantes vistas para tomar fotos.
+---
 
-  ## Servicios turísticos en "El Velo de la Novia" – Aguaytía, Padre Abad
+## 🛎️ Servicios turísticos disponibles
 
-  - Accesibilidad y transporte
-Transporte guiado desde Aguaytía o Pucallpa.
+- 🚐 **Acceso** desde Aguaytía por carretera (Carretera Federico Basadre).
+- 🚶‍♂️ Caminatas guiadas hacia la catarata.
+- 📸 Zonas para fotografía y miradores.
+- 🛖 Quioscos con comida típica.
+- 🧼 Servicios higiénicos y vestuarios.
+- 🧑‍🏫 Guías turísticos locales.
+- 🎟️ Paquetes turísticos combinados con otras cataratas.
+- 🚗 Estacionamiento turístico.
+- 🧺 Zonas de descanso y picnic.
 
-Acceso por carretera asfaltada (Carretera Federico Basadre).
+---
 
-Paraderos turísticos señalizados.
-
-- Actividades y experiencias
-Senderismo guiado hasta la catarata.
-
-Observación de flora y fauna local.
-
-Fotografía turística en miradores naturales.
-
-Baños en pozas naturales (según temporada).
-
-- Servicios en el lugar
-Zonas de descanso y miradores con sombra.
-
-Quioscos de comida típica y bebidas.
-
-Venta de artesanías y recuerdos locales.
-
-Baños públicos y áreas de cambio de ropa.
-
-
-## Imágenes del lugar
+## 🖼️ Imágenes del lugar
 
 ![Velo de la Novia 1](https://raw.githubusercontent.com/v1kktorv22-bit/canto-de-las-cataratas-/main/foto1.jpeg)
 ![Velo de la Novia 2](https://raw.githubusercontent.com/v1kktorv22-bit/canto-de-las-cataratas-/main/foto2.jpeg)
@@ -53,28 +33,33 @@ Baños públicos y áreas de cambio de ropa.
 ![Velo de la Novia 5](https://raw.githubusercontent.com/v1kktorv22-bit/canto-de-las-cataratas-/main/foto5.jpeg)
 ![Velo de la Novia 6](https://raw.githubusercontent.com/v1kktorv22-bit/canto-de-las-cataratas-/main/foto6.jpeg)
 
-> *Estas imágenes muestran la belleza de la catarata El Velo de la Novia, rodeada de naturaleza y vegetación tropical.*
+---
 
-## Leyenda local
+## 🧪 Tecnología usada
 
-- Una chica que trabaja en la zona contó que un trabajador le dijo algo curioso:
- 
-  "Por las noches, los gatos que ves durante el día se transforman en puma".
-  
- - Muchos creen que son guardianes del bosque, ocultos entre nosotros.
-  
-## Objetivo del proyecto
-
-Promover el turismo ecológico mediante una plataforma web simple, visual y accesible para todo tipo de usuarios, utilizando herramientas modernas como **Vercel**, **GitHub** y tecnologías web ligeras.
-
-## Tecnologías usadas
-
-- HTML
-- CSS
-- JavaScript
-- Vercel (para despliegue)
-- GitHub (repositorio)
+- HTML + CSS (usando V0.dev)
+- Vercel (para hosting)
+- GitHub (control de versiones)
 
 ---
 
-> ¡Explora, conoce y comparte! 
+## 📲 Objetivo del proyecto
+
+Crear una plataforma digital que ayude a:
+1. Difundir los atractivos turísticos de la zona.
+2. Brindar información útil a los visitantes.
+3. Promover el turismo ecológico y responsable.
+
+---
+
+## 👥 Autores
+
+- Viktor Soren Lawrence (@v1kktorv22-bit)  
+- [Nombre del otro integrante si es grupal]
+
+---
+
+## ✨ Contribuye
+
+¿Quieres apoyar el turismo en Padre Abad? Puedes sugerir mejoras, reportar errores o contribuir con ideas nuevas. ¡Gracias por visitar este proyecto!
+
