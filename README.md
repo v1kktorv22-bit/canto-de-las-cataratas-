@@ -25,7 +25,7 @@ Acceso por carretera asfaltada (Carretera Federico Basadre).
 
 Paraderos turísticos señalizados.
 
--Actividades y experiencias
+- Actividades y experiencias
 Senderismo guiado hasta la catarata.
 
 Observación de flora y fauna local.
@@ -34,7 +34,7 @@ Fotografía turística en miradores naturales.
 
 Baños en pozas naturales (según temporada).
 
--Servicios en el lugar
+- Servicios en el lugar
 Zonas de descanso y miradores con sombra.
 
 Quioscos de comida típica y bebidas.
