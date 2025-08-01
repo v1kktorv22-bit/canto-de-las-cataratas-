@@ -1,6 +1,7 @@
-# 🌊 Canto de las Cataratas
+# El canto de las Cataratas
 
-**Canto de las Cataratas** es una aplicación web visual e interactiva que presenta destinos turísticos naturales del Perú, comenzando por **El Velo de la Novia**, en **Padre Abad, Ucayali**.
+**El canto de las Cataratas** Dicen que si guardas el silencio unos segundos, el velo de la novia te susurra su historia...una leyenda escondida entre la bruma,donde el agua no solo cae,baila,canta, y nunca olvida.
+**El Velo de la Novia**, en **Padre Abad, Ucayali**.
 
 ## 🌍 ¿Qué puedes hacer?
 
