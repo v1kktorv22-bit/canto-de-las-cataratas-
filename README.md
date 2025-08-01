@@ -19,9 +19,12 @@ Esta rodeado de vegetación, montañas, y otras cascadas como la Ducha del Diabl
 
 ## Imágenes del lugar
 
-![Velo de la Novia 1](./79429067-37bd-427f-bc04-3cde0a49401e.jfif)
-![Velo de la Novia 2](./882f96d1-a699-4a29-8330-7f3f4c06c5c8.jfif)
-![Velo de la Novia 3](./9faf5cc9-49df-4d28-a672-a47e8d92eb1e.jfif)
+![Velo de la Novia 1](https://raw.githubusercontent.com/v1kktorv22-bit/canto-de-las-cataratas-/main/foto1.jpeg)
+![Velo de la Novia 2](https://raw.githubusercontent.com/v1kktorv22-bit/canto-de-las-cataratas-/main/foto2.jpeg)
+![Velo de la Novia 3](https://raw.githubusercontent.com/v1kktorv22-bit/canto-de-las-cataratas-/main/foto3.jpeg)
+![Velo de la Novia 4](https://raw.githubusercontent.com/v1kktorv22-bit/canto-de-las-cataratas-/main/foto4.jpeg)
+![Velo de la Novia 5](https://raw.githubusercontent.com/v1kktorv22-bit/canto-de-las-cataratas-/main/foto5.jpeg)
+![Velo de la Novia 6](https://raw.githubusercontent.com/v1kktorv22-bit/canto-de-las-cataratas-/main/foto6.jpeg)
 
 > *Estas imágenes muestran la belleza de la catarata El Velo de la Novia, rodeada de naturaleza y vegetación tropical.*
 
