@@ -16,6 +16,33 @@ Esta rodeado de vegetación, montañas, y otras cascadas como la Ducha del Diabl
   - El sonido relajante de la caida del agua.
   - Sus impresionantes vistas para tomar fotos.
 
+  ## Servicios turísticos en "El Velo de la Novia" – Aguaytía, Padre Abad
+
+  - Accesibilidad y transporte
+Transporte guiado desde Aguaytía o Pucallpa.
+
+Acceso por carretera asfaltada (Carretera Federico Basadre).
+
+Paraderos turísticos señalizados.
+
+-Actividades y experiencias
+Senderismo guiado hasta la catarata.
+
+Observación de flora y fauna local.
+
+Fotografía turística en miradores naturales.
+
+Baños en pozas naturales (según temporada).
+
+-Servicios en el lugar
+Zonas de descanso y miradores con sombra.
+
+Quioscos de comida típica y bebidas.
+
+Venta de artesanías y recuerdos locales.
+
+Baños públicos y áreas de cambio de ropa.
+
 
 ## Imágenes del lugar
 
@@ -31,10 +58,10 @@ Esta rodeado de vegetación, montañas, y otras cascadas como la Ducha del Diabl
 ## Leyenda local
 
 - Una chica que trabaja en la zona contó que un trabajador le dijo algo curioso:
-- 
+ 
   "Por las noches, los gatos que ves durante el día se transforman en puma".
   
-  Muchos creen que son guardianes del bosque, ocultos entre nosotros.
+ - Muchos creen que son guardianes del bosque, ocultos entre nosotros.
   
 ## Objetivo del proyecto
 
