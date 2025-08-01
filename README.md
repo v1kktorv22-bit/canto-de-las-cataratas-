@@ -52,13 +52,6 @@ Crear una plataforma digital que ayude a:
 
 ---
 
-## 👥 Autores
-
-- Viktor Soren Lawrence (@v1kktorv22-bit)  
-- [Nombre del otro integrante si es grupal]
-
----
-
 ## ✨ Contribuye
 
 ¿Quieres apoyar el turismo en Padre Abad? Puedes sugerir mejoras, reportar errores o contribuir con ideas nuevas. ¡Gracias por visitar este proyecto!
