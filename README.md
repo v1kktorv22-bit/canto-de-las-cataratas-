@@ -1,16 +1,23 @@
 # El canto de las Cataratas
 
-**El canto de las Cataratas** Dicen que si guardas el silencio unos segundos, el velo de la novia te susurra su historia...una leyenda escondida entre la bruma,donde el agua no solo cae,baila,canta, y nunca olvida.
+**El canto de las Cataratas** una experiencia visual y descriptiva sobre el velo de la novia,una cascada maravillosa.
 **El Velo de la Novia**, en **Padre Abad, Ucayali**.
 
-## 🌍 ¿Qué puedes hacer?
+## ¿Qué es el velo de la novia?
 
-- 🖼️ Explorar imágenes reales del lugar
-- 📜 Leer la historia y curiosidades del sitio
-- 📍 Ver un mapa con la ubicación
-- 💬 Dejar comentarios, opiniones o subir fotos
+El velo de la  novia es una cascada natural ubicada en el Boqueron del Padre Abad, en la provincia de Padre Abad,region Ucayali-Perú,cerca de la ciudad de Aguaytia.
+Su nombre proviene de la forma que cae el agua,formando un manto blanco parecido al velo de una novia.
+Esta rodeado de vegetación, montañas, y otras cascadas como la Ducha del Diablo.
 
-## 📷 Imágenes del lugar
+
+  ## Es uno de los lugares mas visitados por turistas debido a:
+  
+  - Su entorno lleno de vegetación y fauna.
+  - El sonido relajante de la caida del agua.
+  - Sus impresionantes vistas para tomar fotos.
+
+
+## Imágenes del lugar
 
 ![Velo de la Novia 1](./79429067-37bd-427f-bc04-3cde0a49401e.jfif)
 ![Velo de la Novia 2](./882f96d1-a699-4a29-8330-7f3f4c06c5c8.jfif)
@@ -18,11 +25,19 @@
 
 > *Estas imágenes muestran la belleza de la catarata El Velo de la Novia, rodeada de naturaleza y vegetación tropical.*
 
-## 🚀 Objetivo del proyecto
+## Leyenda local
+
+- Una chica que trabaja en la zona contó que un trabajador le dijo algo curioso:
+- 
+  "Por las noches, los gatos que ves durante el día se transforman en puma".
+  
+  Muchos creen que son guardianes del bosque, ocultos entre nosotros.
+  
+## Objetivo del proyecto
 
 Promover el turismo ecológico mediante una plataforma web simple, visual y accesible para todo tipo de usuarios, utilizando herramientas modernas como **Vercel**, **GitHub** y tecnologías web ligeras.
 
-## 🛠️ Tecnologías usadas
+## Tecnologías usadas
 
 - HTML
 - CSS
@@ -32,4 +47,4 @@ Promover el turismo ecológico mediante una plataforma web simple, visual y acce
 
 ---
 
-> ¡Explora, conoce y comparte! 🌱
+> ¡Explora, conoce y comparte! 
