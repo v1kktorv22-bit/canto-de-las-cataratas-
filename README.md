@@ -1,4 +1,4 @@
-# 🌊 Canto de las Cataratas – Velo de la Novia, Aguaytía
+# 🌊 El canto de las Cataratas – Velo de la Novia, Aguaytía
 
 Este proyecto es una aplicación web turística que muestra información sobre la catarata **Velo de la Novia**, ubicada en la provincia de Padre Abad, región Ucayali, Perú. El objetivo es promocionar el turismo local mediante una herramienta digital informativa, visual y fácil de usar.
 
