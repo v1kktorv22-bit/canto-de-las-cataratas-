@@ -34,6 +34,12 @@ La catarata *Velo de la Novia* es una de las más visitadas de la zona. Su caíd
 ![Velo de la Novia 6](https://raw.githubusercontent.com/v1kktorv22-bit/canto-de-las-cataratas-/main/foto6.jpeg)
 
 ---
+## 🎥 Video del lugar
+
+▶ Mira el video aquí: [Ver en Facebook](https://www.facebook.com/share/v/19ciK9K1cq/)
+
+▶ Mira el video aquí: [Ver en Facebook](https://www.facebook.com/share/v/1G1rzv6iAA/)
+---
 
 ## 🧪 Tecnología usada
 
