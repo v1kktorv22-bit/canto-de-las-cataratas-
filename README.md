@@ -66,6 +66,24 @@ Cuenta la tradición que dos jóvenes enamorados vivían en tiempos antiguos. El
 El clima en la zona es tropical y húmedo.  
 **Temporada recomendada:** entre mayo y septiembre (época seca), cuando los caminos están en mejores condiciones.
 
+---
+
+## 💡 Recomendaciones
+
+- Llevar ropa cómoda y calzado antideslizante.
+- Usar protector solar y repelente.
+- Respetar las zonas señalizadas.
+- No dejar basura ni dañar la flora.
+- Llevar efectivo (no siempre hay señal ni POS).
+
+## 🏞️ Otros atractivos cercanos
+
+- Catarata Ducha del Diablo
+- Velo de las Ninfas
+- Cueva de las Lechuzas
+- Cascada del León Dormido
+
+---
 
 ## 🧪 Tecnología usada
 
