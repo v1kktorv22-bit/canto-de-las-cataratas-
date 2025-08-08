@@ -82,6 +82,16 @@ El clima en la zona es tropical y húmedo.
 - Velo de las Ninfas
 - Cueva de las Lechuzas
 - Cascada del León Dormido
+  
+---
+
+## 🌿 Datos curiosos y cultura local
+
+- El Velo de la Novia es uno de los lugares más fotografiados de Ucayali debido a su forma única.
+- En ciertas épocas del año, la neblina que genera la caída de agua crea un arcoíris natural.
+- Algunos lugareños cuentan que, en las madrugadas, se pueden escuchar rugidos lejanos de pumas que habitan la zona.
+- Durante festividades locales, se realizan danzas y ferias gastronómicas cerca de la catarata.
+- El área protegida donde se encuentra alberga especies de aves como el gallito de las rocas y el tucán amazónico.
 
 ---
 
