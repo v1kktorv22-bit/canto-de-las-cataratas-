@@ -41,9 +41,11 @@ La catarata *Velo de la Novia* es una de las más visitadas de la zona. Su caíd
 - [📹 Video 1 – Vista del Velo de la Novia](https://www.facebook.com/share/v/19ciK9K1cq/)
 - [📹 Video 2 – Caminata hacia el puente colgante](https://www.facebook.com/share/v/1G1rzv6iAA/)
 ---
-## leyendas
-- se dice que un trabajador del local vio por la madrugado a uno de los gatos salvajes que habitan en el velo de la novia, convertirse en un puma.
-  muchos no saben si creerlo mientras que otros que habitan cerca del lugar juran haberlos vistos.
+## Leyenda local
+
+Cuenta la tradición que dos jóvenes enamorados vivían en tiempos antiguos. El Curaca, o jefe local, se opuso a su amor y ordenó que fueran ejecutados. Para escapar, los enamorados huyeron, pero perecieron en su huida. Conmovida, la naturaleza transformó al joven en una laguna y a la joven en la cascada que hoy conocemos como el Velo de la Novia. Se dice que las parejas que se bañan en esas aguas sellan su amor para siempre.
+
+---
 
 ## ☀️ Clima y mejor temporada
 
