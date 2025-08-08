@@ -45,6 +45,12 @@ La catarata *Velo de la Novia* es una de las más visitadas de la zona. Su caíd
 - se dice que un trabajador del local vio por la madrugado a uno de los gatos salvajes que habitan en el velo de la novia, convertirse en un puma.
   muchos no saben si creerlo mientras que otros que habitan cerca del lugar juran haberlos vistos.
 
+## ☀️ Clima y mejor temporada
+
+El clima en la zona es tropical y húmedo.  
+**Temporada recomendada:** entre mayo y septiembre (época seca), cuando los caminos están en mejores condiciones.
+
+
 ## 🧪 Tecnología usada
 
 - HTML + CSS (usando V0.dev)
