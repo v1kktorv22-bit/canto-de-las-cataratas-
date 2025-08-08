@@ -21,6 +21,20 @@ La catarata *Velo de la Novia* es una de las más visitadas de la zona. Su caíd
 - 🎟️ Paquetes turísticos combinados con otras cataratas.
 - 🚗 Estacionamiento turístico.
 - 🧺 Zonas de descanso y picnic.
+  
+---
+
+## 📖 Historia y leyenda del Velo de la Novia – Padre Abad, Ucayali
+
+El nombre **"Velo de la Novia"** proviene de la forma de su caída de agua: un manto blanco y delicado que recuerda al velo nupcial de una novia.
+
+Según la leyenda local, hace muchos años dos jóvenes enamorados vivían en la región. El **Curaca** (jefe de la comunidad) se opuso a su amor y ordenó que fueran ejecutados. Para escapar, huyeron juntos hacia la selva, pero en su intento perecieron. Conmovida por su historia, la naturaleza transformó al joven en una laguna y a la joven en la majestuosa cascada que hoy conocemos como el Velo de la Novia. Se dice que las parejas que se bañan en sus aguas sellan su amor para siempre.
+
+Esta catarata forma parte del **Boquerón del Padre Abad**, un área natural con múltiples caídas de agua, rodeada de exuberante vegetación como helechos, orquídeas y musgos. Tiene una altura aproximada de **40 a 55 metros** y en su base se forma una piscina natural perfecta para refrescarse.
+
+En **junio de 2025**, el Gobierno Regional de Ucayali, junto con el SERNANP, declaró oficialmente el **Área de Conservación Regional Velo de la Novia**, protegiendo más de **14 000 hectáreas** de bosque. Además, fue reconocida como **ecosistema frágil**, asegurando su preservación para las futuras generaciones.
+
+📍 *Ubicación:* Boquerón del Padre Abad, Aguaytía – Región Ucayali, Perú.
 
 ---
 
