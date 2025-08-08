@@ -41,6 +41,9 @@ La catarata *Velo de la Novia* es una de las más visitadas de la zona. Su caíd
 - [📹 Video 1 – Vista del Velo de la Novia](https://www.facebook.com/share/v/19ciK9K1cq/)
 - [📹 Video 2 – Caminata hacia el puente colgante](https://www.facebook.com/share/v/1G1rzv6iAA/)
 ---
+## leyendas
+- se dice que un trabajador del local vio por la madrugado a uno de los gatos salvajes que habitan en el velo de la novia, convertirse en un puma.
+  muchos no saben si creerlo mientras que otros que habitan cerca del lugar juran haberlos vistos.
 
 ## 🧪 Tecnología usada
 
