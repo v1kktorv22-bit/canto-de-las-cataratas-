@@ -10,6 +10,21 @@ La catarata *Velo de la Novia* es una de las más visitadas de la zona. Su caíd
 
 ---
 
+## 🍽️ Comidas típicas que podrás encontrar
+
+En la zona del Velo de la Novia y en Aguaytía, los quioscos y puestos de comida ofrecen delicias de la gastronomía local:
+
+- **Tacacho con cecina** – Plátano bellaco asado y majado, acompañado de carne de cerdo seca y frita.
+- **Juane** – Arroz sazonado con especias y pollo, envuelto en hojas de bijao.
+- **Inchicapi** – Sopa espesa a base de maní, gallina y yuca.
+- **Cecina y chorizo a la parrilla** – Carne de cerdo y embutidos amazónicos asados al carbón.
+- **Patacones** – Rodajas de plátano verde fritas, crocantes y doradas.
+- **Chapo** – Bebida dulce hecha con plátano maduro y leche.
+- **Masato** – Bebida tradicional de yuca fermentada, típica de la Amazonía.
+- **Refrescos frutales** – Jugos de camu camu, cocona y aguaje, frutas nativas llenas de sabor y vitaminas.
+  
+---
+
 ## 🛎️ Servicios turísticos disponibles
 
 - 🚐 **Acceso** desde Aguaytía por carretera (Carretera Federico Basadre).
