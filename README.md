@@ -69,6 +69,8 @@ En **junio de 2025**, el Gobierno Regional de Ucayali, junto con el SERNANP, dec
 
 - [📹 Video 1 – Vista del Velo de la Novia](https://www.facebook.com/share/v/19ciK9K1cq/)
 - [📹 Video 2 – Caminata hacia el puente colgante](https://www.facebook.com/share/v/1G1rzv6iAA/)
+- [📹 Video 3 – Recorrido turístico por el Velo de la Novia](https://www.facebook.com/share/v/16S5Veq7e6/)
+
 ---
 ## Leyenda local
 
